@@ -1,9 +1,9 @@
 # IGDB Rust API wrapper
 
-A Rust wrapper for [IGDB API]().
+A Rust wrapper for [IGDB API](https://www.igdb.com/).
 
-- Built on [reqwest]()
-- Using [tokio]() asynchronous runtime
+- Built on [reqwest](https://docs.rs/reqwest/latest/reqwest/)
+- Using [tokio](https://tokio.rs/) asynchronous runtime
 
 ## Usage
 
